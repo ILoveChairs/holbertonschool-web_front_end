@@ -115,12 +115,6 @@ a:active {
     color: var(--nav-item-link-hover);
 }
 
-.row::after {
-    content: none;
-    display: table;
-    overflow: auto;
-}
-
 ul.row {
     margin: 0;
     padding: 0;
